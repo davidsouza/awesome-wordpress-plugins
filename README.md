@@ -1,29 +1,20 @@
 # Awesome Wordpress Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A list of useful WordPress plugins to add functionality
-
+> A list of useful WordPress plugins to add functionality for WordPress/Web Developers
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Analytics](#analytics)
+- [Forms](#forms)
+- [Contribute](#contribute)
 
+## Analytics
 
-## Section
+- [MonsterInsights](https://www.monsterinsights.com/) - MonsterInsights is a Google Analytics plugin for WordPress. It allows you to connect your website with Google Analytics.
 
-About this section. Optional. Keep this short and focus on the list.
+## Forms
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [WPForms](https://wpforms.com/) - WPForms is a user-friendly contact form plugin. This drag &amp; drop online form builder allows you to easily any kind of form.
 
 ## Contribute
 
